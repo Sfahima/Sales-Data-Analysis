@@ -15,7 +15,7 @@ This project is a data visualization dashboard that analyzes a company's sales d
 - **Interactive Visuals**: Users can filter and explore data dynamically.
 
 ## Tools Used
-- **Power BI / Tableau / Python (Matplotlib, Seaborn, Plotly)** *(mention the tool used)*
+- **Power BI / Python (Matplotlib, Seaborn, Plotly)** *(mention the tool used)*
 - **Pandas** for data processing
 
 ## How to Use
